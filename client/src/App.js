@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            FIBONACCI CALCULATOR
+            FIBONACCI CALCULATOR VERSION 2
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
